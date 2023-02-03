@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663168110 source:h:\dziomkina\main.cpp
+	<stdio.h>
+	<math.h>
+

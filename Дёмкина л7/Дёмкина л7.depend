@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665587466 source:h:\Дёмкина л7\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+
